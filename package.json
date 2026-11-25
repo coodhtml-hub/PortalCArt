@@ -1,0 +1,12 @@
+{
+  "name": "portal-estudante-cart",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portal do Estudante do CART - IFF Campus Campos Centro",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
